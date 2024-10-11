@@ -11,6 +11,7 @@ Impact Code
 
 
 Injection：person_id
+
 Injection url: http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&classid=1
 
 
