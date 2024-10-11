@@ -1,4 +1,4 @@
-# KASO-SQL
+# KASO cardcase/editcard.jsp Sql Injection
 
 
 Impact Code
