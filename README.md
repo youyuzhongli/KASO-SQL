@@ -1,7 +1,7 @@
 # KASO cardcase/editcard.jsp Sql Injection
 
 
-Impact Code
+Code
 
     <%}
     rs.close();
