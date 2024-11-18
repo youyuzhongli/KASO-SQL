@@ -1,7 +1,9 @@
 # KASO cardcase/editcard.jsp Sql Injection
 
 CVE-ID: CVE-2024-50724
+
 VERSION: v9.0
+
 Exploit Author: hndky
 
 
