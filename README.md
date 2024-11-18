@@ -6,7 +6,7 @@ VERSION: v9.0
 
 Exploit Author: hndky
 
-Vulnerability Discovery Unit: 河南电力
+
 
 
 
