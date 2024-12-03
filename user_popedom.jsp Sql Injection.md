@@ -1,4 +1,4 @@
-# KASO kmc/user_popedom.jsp Sql Injection
+# KSOA kmc/user_popedom.jsp Sql Injection
 
 
 VERSION: v9.0
